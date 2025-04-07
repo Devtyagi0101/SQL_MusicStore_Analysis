@@ -1,9 +1,11 @@
-🎵 Online Music Store SQL Analysis
+# 🎵 Online Music Store SQL Analysis
 📘 Project Overview
 This project focuses on analyzing the data of an Online Music Store using SQL. The goal is to extract valuable business insights from various aspects of the store, such as customer behavior, employee performance, track popularity, and genre trends. The data is stored in a relational database with multiple interconnected tables.
 
+
 🗃️ Database Schema
 The database includes the following tables:
+
 
 Table Name	Description
 artist	Stores information about music artists.
